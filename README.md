@@ -28,8 +28,8 @@
 <h2>Запуск проекта</h2>
 <ol>
   <li>Клонируйте репозиторий:<br>
-    <pre><code>git clone &lt;URL_репозитория&gt;
-cd &lt;папка_проекта&gt;</code></pre>
+    <pre><code>git clone &lt;https://github.com/Joriksss/projectML.git&gt;
+cd &lt;ProjectML&gt;</code></pre>
   </li>
   <li>Создайте и активируйте виртуальное окружение, установите зависимости:<br>
     <pre><code>python3 -m venv venv
