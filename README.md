@@ -19,7 +19,7 @@
 <h2>Структура проекта</h2>
 <ul>
   <li><code>app.py</code> — запуск сервера Flask (порт 3000)</li>
-  <li><code>modelka.py</code> — работа с моделью и логированием</li>
+  <li><code>modelka.py</code> — работа с моделью и логированием (Порт 5000)</li>
   <li><code>check.py</code> — скрипт для проверки логов</li>
 </ul>
 
