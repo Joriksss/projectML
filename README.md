@@ -1,17 +1,3 @@
-<!DOCTYPE html>
-<html lang="ru">
-<head>
-<meta charset="UTF-8">
-<title>Who are you? - README</title>
-<style>
-  body { font-family: Arial, sans-serif; max-width: 700px; margin: 40px auto; padding: 10px; line-height: 1.5; color: #222; }
-  h1, h2 { color: #004080; }
-  code { background: #f4f4f4; padding: 2px 5px; border-radius: 3px; font-family: monospace; }
-  pre { background: #f4f4f4; padding: 10px; border-radius: 5px; overflow-x: auto; }
-  hr { margin: 30px 0; border: 0; border-top: 1px solid #ccc; }
-</style>
-</head>
-<body>
 
 <h1>Who are you?</h1>
 
@@ -79,5 +65,3 @@ pip install -r requirements.txt</code></pre>
 <h2>Лицензия</h2>
 <p>Проект доступен под лицензией MIT.</p>
 
-</body>
-</html>
