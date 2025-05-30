@@ -61,7 +61,3 @@ pip install -r requirements.txt</code></pre>
 </ul>
 
 <hr>
-
-<h2>Лицензия</h2>
-<p>Проект доступен под лицензией MIT.</p>
-
